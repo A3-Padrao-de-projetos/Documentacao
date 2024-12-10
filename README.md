@@ -36,7 +36,7 @@
 
    ### Requisitos Funcionais
    
-  Gerenciamento do Catálogo de Livros 
+  1. Gerenciamento do Catálogo de Livros 
   Adicionar, editar e remover registros de livros.
   Permitir a listagem dos livros no acervo da biblioteca
   Registrar informações detalhadas dos livros, como título, autor, ano de
