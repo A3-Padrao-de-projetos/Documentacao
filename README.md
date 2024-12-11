@@ -109,13 +109,10 @@
 
 ## Contato
 
-![arthur](https://github.com/user-attachments/assets/c7dfe362-194d-4e12-83f7-97f3493640cb)Arthur Veríssimo Gonçalves de Abreu - RA 4231924746 - arthurvga05@gmail.com
- <br>
-![bryan caetano ft](https://github.com/user-attachments/assets/5b7ae0d5-e112-4585-bce6-706bfbb9503e) Bryan Caetano Sena Silva - RA 4231922321 - bryancaetano2010@gmail.com 
-<br>
-![hebert](https://github.com/user-attachments/assets/86ac5803-ff63-4eb5-b55f-c9c94a5fab34)Hebert Magalhães Soares - RA 4231925578 - hebertms2009@hotmail.com
-<br>
-![samuel](https://github.com/user-attachments/assets/4c2f97cc-8f71-4913-b225-71d1d1f5b3af) Samuel Silva Almeida - RA 4231922319 - smlsilvaalmeida@gmail.com
+Arthur Veríssimo Gonçalves de Abreu - RA 4231924746 - arthurvga05@gmail.com <br>
+Bryan Caetano Sena Silva - RA 4231922321 - bryancaetano2010@gmail.com <br>
+Hebert Magalhães Soares - RA 4231925578 - hebertms2009@hotmail.com <br>
+Samuel Silva Almeida - RA 4231922319 - smlsilvaalmeida@gmail.com
 
 
 
