@@ -90,10 +90,9 @@
    <Comentario
    
    ### Diagrama de Casos de Uso
-    <Comentario 
-    ID Caso de Uso               Descrição do Objetivo do Caso de Uso
-    UC1 Consultar Pedido de Sala Permite consultar os pedidos de sala solicitados.
-   
+    
+   ![git casos](https://github.com/user-attachments/assets/f95f17a0-73c4-4827-a6d8-0a6f14f12b85)
+
    ### Diagrama de Classe
 
 ## Estrutura do Projeto 
