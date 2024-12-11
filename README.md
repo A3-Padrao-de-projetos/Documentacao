@@ -87,7 +87,6 @@
  48 horas.
 
 ## Diagramas UML
-   <Comentario
    
    ### Diagrama de Casos de Uso
     
@@ -95,8 +94,9 @@
 
    ### Diagrama de Classe
 
+   ![uml](https://github.com/user-attachments/assets/a3cbee5c-4e11-4c9d-aeb2-02650c52102a)
+
 ## Estrutura do Projeto 
-<Comentario: faça a adaptação necessária para o seu projeto
 
 - `src/`: https://github.com/A3-Padrao-de-projetos/Sistema-de-biblioteca
   
