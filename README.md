@@ -32,8 +32,6 @@
 
 ## Requisitos ou História de Usuário
 
-*************------------******************
-
    ### Requisitos Funcionais
    
   1. Gerenciamento do Catálogo de Livros 
